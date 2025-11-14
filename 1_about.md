@@ -1,0 +1,8 @@
+# Core Software Project Facilitator
+
+* Hired in April 2025
+
+* Funded by Sovereign Tech Fund (Feb 2025)
+
+* His name is Minh Nguyễn, he's awesome!
+  * https://blog.openstreetmap.org/2025/04/28/meet-the-new-core-software-development-facilitator/

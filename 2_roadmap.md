@@ -1,0 +1,11 @@
+# There's a (draft) Core Software Roadmap
+
+* It lives here - https://github.com/openstreetmap/software-roadmap 
+
+## Community dynamics
+
+## Operational sustainability
+
+## Developer experience
+
+## Legal compliance
