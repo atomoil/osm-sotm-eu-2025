@@ -27,7 +27,7 @@
          @@@@  
 ```
 
-* email: minh <at> osmfoundation.org
+* email: minh {at} osmfoundation.org
 
 * https://community.openstreetmap.org/t/core-software-roadmap/138102
 
